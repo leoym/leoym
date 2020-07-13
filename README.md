@@ -9,21 +9,23 @@ International University experience at Babson College.
 
 - 🌱 I’m currently learning and starting new challenges in Web Commerce. New experiences. DevOps culture. As an Entrepreneur I am trying to have my own Business.!!!
 
-Instructor at Udemy
+- 👯 I’m looking to collaborate as Instructor at Udemy
 
-CDN
-HLB
-Web Servers 
-J2EE JAVA
-Cloud
+My experience:
+  CDN
+  HLB
+  Web Servers 
+  J2EE JAVA
+  Cloud
 
-DevOps
-Automation
+Skills:
+  DevOps
+  Automation
 
 Specialties: 
-Electric Engineering and Information Technology.
-Windows and Linux Systems.
-Web commerce.
+  Electric Engineering and Information Technology.
+  Windows and Linux Systems.
+  Web commerce.
 
 - 📫 How to reach me: leonardo@lymtec.com.br
 
