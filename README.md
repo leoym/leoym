@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leoym/)]
+
 - 🔭 I’m currently working as SRE DevOps Sysadmin Master / IT consultant and instructor.
 
 I am a Senior IT Analyst who has worked at several Banks in Brazil. I work with Web Servers based on Microsoft Windows and Linux Operating Systems, installing, configuring and managing Web Servers and applications. I have skills in programming languages and Development of Windows and Web Applications. I have general knowledge in Networking Infrastructure. I have 15 year experience working with Internet Banking Systems and 1-year experience in ATM communications Systems. 
