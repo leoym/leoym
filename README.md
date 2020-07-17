@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-![alt text](http://www.lymtec.com.br/wp-content/uploads/2014/07/logotipo12.png "Logo LYM")
 
 - 🔭 I’m currently working as SRE DevOps Sysadmin Master / IT consultant and instructor.
 
