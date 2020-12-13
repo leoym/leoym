@@ -1,6 +1,12 @@
+## My Profile
+
+![alt text](https://raw.githubusercontent.com/leoym/Cloud-Infra/main/gituser.png
+ "Logo LYM") 
+ 
+### Hi there 👋
+
 ![alt text](http://www.lymtec.com.br/wp-content/uploads/2020/03/Slide6.png "Logo LYM") 
 
-### Hi there 👋
 
 
 - 🔭 I’m currently working as SRE DevOps Sysadmin Master / IT consultant and instructor.
