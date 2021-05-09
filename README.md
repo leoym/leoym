@@ -1,6 +1,6 @@
 ## My Profile
 
-![alt text](https://raw.githubusercontent.com/leoym/aprendizado/master/treinamento-ti.png
+![alt text](https://raw.githubusercontent.com/leoym/Cloud-Infra/main/gituser.png
  "Logo LYM") 
  
 ### Hi there 👋
